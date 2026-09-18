@@ -1,4 +1,4 @@
-entorno-virtual-portal/
+entorno-virtual/
 __pycache__/
 *.pyc
 db.sqlite3
