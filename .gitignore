@@ -2,3 +2,6 @@ entorno-virtual/
 __pycache__/
 *.pyc
 db.sqlite3
+env
+.env
+requeriment.txt
