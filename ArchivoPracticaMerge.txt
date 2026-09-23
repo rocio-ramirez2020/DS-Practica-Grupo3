@@ -1,0 +1,3 @@
+Archivo creado por Lautaro para practicar hacer un merge con los cambios de la rama a main
+
+Me mergearon 
